@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Immigrant Family Reunification Project",
   "scripts": {
-    "test": "mocha --recursive --timeout 100000",
+    "test": "echo no tests yet",
     "package:bna": "cd dist && composer archive create -t dir -n ../ && cd ../"
   },
   "author": "Accord Project",
