@@ -9,7 +9,7 @@ _Image source: https://www.hpjc.org/event/houston-rapid-response-network-trainin
 
 1. Click the link below to automate the provision of a service on IBM Cloud and to deploy the contract and app contained in this repository.
 
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/clauseHQ/ifrp&branch=master&env_id=ibm%3Ayp%3Aus-south&deploy-region=ibm%3Ayp%3Aus-south)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/accordproject/ifrp&branch=master&env_id=ibm%3Ayp%3Aus-south&deploy-region=ibm%3Ayp%3Aus-south)
 
 2. Authorize IBM Cloud to access your GitHub account. This sample will be forked into your account so you can modify it.
 
