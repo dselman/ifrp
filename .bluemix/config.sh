@@ -4,7 +4,7 @@ set -ex
 
 # Set this to the name of the sample recognized by the IBM Blockchain Platform. Samples must be registered by the
 # IBM team who manage the IBM Blockchain Platform service; you cannot register samples yourself at this time.
-export BLOCKCHAIN_SAMPLE_ID=clause-perishable-goods
+export BLOCKCHAIN_SAMPLE_ID=ifrp
 
 # Set this to the name of an application under the apps directory. The URL of this application will be linked
 # to from the IBM Blockchain Platform. If you want to explicitly set this URL, specify it in BLOCKCHAIN_SAMPLE_URL.
