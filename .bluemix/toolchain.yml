@@ -14,7 +14,7 @@ services:
     service_id: githubpublic
     parameters:
       repo_name: '{{toolchain.name}}'
-      repo_url: 'https://github.com/clauseHQ/ifrp'
+      repo_url: 'https://github.com/accordproject/ifrp'
       type: clone
       has_issues: true
       enable_traceability: true
