@@ -1,0 +1,26 @@
+{
+  "name": "ifrp-network",
+  "version": "0.2.0",
+  "description": "Immigrant Family Reunification Project",
+  "scripts": {
+    "test": "mocha --recursive --timeout 100000",
+    "package:bna": "cd dist && composer archive create -t dir -n ../ && cd ../"
+  },
+  "author": "Accord Project",
+  "email": "dan@accordproject.io",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "async": "^2.6.0",
+    "chai": "latest",
+    "composer-admin": "^0.19.9",
+    "composer-client": "^0.19.9",
+    "composer-common": "^0.19.9",
+    "composer-connector-embedded": "^0.19.9",
+    "csv-parse": "^2.4.0",
+    "istanbul": "latest",
+    "mocha": "^5.1.1",
+    "nock": "^9.2.5",
+    "sinon": "^4.1.2"
+  },
+  "dependencies": {}
+}

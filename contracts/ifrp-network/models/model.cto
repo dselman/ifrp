@@ -1,0 +1,9 @@
+/**
+  * Immigrant Family Reunification Project
+  */
+namespace org.accordproject.ifrp
+
+import org.accordproject.person.Person from https://models.accordproject.org/person.cto
+
+participant IfrpPerson extends Person {
+}
