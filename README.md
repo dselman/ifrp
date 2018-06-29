@@ -1,7 +1,7 @@
 # Immigrant Family Reunification Project
 
 <img src="docs/app.png" width="750">
-_Image source: https://www.hpjc.org/event/houston-rapid-response-network-training/_
+Image source: https://www.hpjc.org/event/houston-rapid-response-network-training/
 
 ## Deploy
 
